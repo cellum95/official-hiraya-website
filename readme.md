@@ -1,6 +1,7 @@
-<img src="./images/Hiraya_Name.png" alt="Hiraya" style="display: block; margin: auto; max-height: 20rem;">
-
-<h1 style="text-align: center;">Official Hiraya Website</h1>
+<div style="text-align: center;">
+    <img src="./images/Hiraya_Name.png" alt="Hiraya Logo" style="display: block; margin: 0 auto;">
+    <h1>Official Hiraya Website</h1>
+</div>
 
 <p>
     This is an official remake of the promotional website for the game Hiraya.
